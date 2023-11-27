@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    background-color:#150500;
+    border: thick double #48c1ff;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #ff3a2f;
+    text-shadow: 3px 3px 1px #ffb5af;
+  }
+  h2{
+    margin:0;
+    color: #ff3a2f;
+    text-shadow: 2px 1px 1px #ffb5af;
+  }
+  p{
+    padding: 2em;
+    margin:0;
+    color:white;
+  }
+  h3{
+    color:orange;
+    text-shadow: 1px 1px 1px #ffa57d
+  }
+  li{
+    color:white
+  }
