@@ -1,3 +1,6 @@
 function maFonction() {
-    ellipse(90, 90, 80, 80);
+    
+    while (true) {
+        ellipse(mouseX, mouseY, 80, 80);
+    }
 }
