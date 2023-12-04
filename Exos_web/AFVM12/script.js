@@ -4,3 +4,6 @@ function setup(){
     translate(width/2,height/2);
 }
 
+function changeColor(color) { 
+    document.body.style.background = color; 
+}
