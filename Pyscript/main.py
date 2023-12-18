@@ -4,4 +4,4 @@ def rectangle(nbr_longueur,nbr_largeur):
         print(f"#{' '*(nbr_longueur-2)}#")
     print('#'*nbr_longueur)
 
-
+rectangle(2,9)
