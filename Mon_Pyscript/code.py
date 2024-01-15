@@ -1,3 +1,4 @@
+%pip install pyscript
 from pyscript import document
 
 def Crypter(texte,decaler):
