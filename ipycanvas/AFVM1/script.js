@@ -1,5 +1,5 @@
-const canvas = document.getElementById('my-house');
-const ctx = canvas.getContext('2d');
+const canvas = document.getElementById("my-house");
+const ctx = canvas.getContext("2d");
 
 // Set line width
 ctx.lineWidth = 10;
